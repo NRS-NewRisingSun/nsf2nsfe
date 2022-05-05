@@ -1,0 +1,4 @@
+# nsf2nsfe
+
+nsf2nsfe: Converts NSF files with metadata to NSFe format.
+nsfe2nfs: Converts NSFe files to NSF files with metadata.
